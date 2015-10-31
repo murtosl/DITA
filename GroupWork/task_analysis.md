@@ -12,12 +12,38 @@ What does the User Need To Know About the Task?
 
 Cindy:
  
-What Task Does the User need to perform to Accomplish the Goal?
+What Tasks Does the User need to perform to Accomplish the Goal?
+Obtain a computer 
+Obtain internet access 
+Install web browser (if not already installed)
+Set up Github account
+Navigate to the correct location within Github
+Create and save post
 
 When and Under What Conditions is The Task Performed?
+Requirements- Students must have a computer. Textbooks and a syllabus will also be helpful.
+Limitations- Students will need to know how to operate their computer, how to navigate the web using a browser, and what message they want to convey in their post.
+Environment- The environment will depend on what type of computer the user has (laptop or desktop etc.) and where they are physically (at home, at school, outside).
+
 
 What is the Sequence of Tasks?
- 
+ Prerequisites: 
+Obtain a computer with an internet browser. 
+Set up a Github account.
+Write up text of post in word processor.
+1)	Login to Github
+2)	Authorize startup of Prose.io
+3)	Select “responses” repository
+4)	Select subfolder for appropriate week
+5)	Select subfolder for your team
+6)	Click on the green box that says “new file” located….
+7)	Copy text from word processor and paste it in place of the “A New Post” heading.
+8)	Select filename path from top of page
+9)	Add your name to the file name
+10)	Click disk icon on right side of page
+11)	Describe the changes you made in the box that appears
+12)	 Select “commit”
+
  
 Sarah:
 
