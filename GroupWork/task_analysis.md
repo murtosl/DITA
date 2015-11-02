@@ -10,7 +10,7 @@ Who Performs the Task?
 The graduate and undergraduate students of the Department of Writing Studies (and similar departments) at the University of Minnesota’s College of Arts and Sciences (team, can you confirm that last part?) This is a group ranging from active professional experience using advanced web-based technologies to those who have only used those which they might need for school work and play.
 
 What does the User Need To Know About the Task?
-The user needs to know that every time they make a change, they are effectively submitting a new document into Github. They will still be then able to see past versions of their document on the site, but any comments made on the previous submissions will be left with that version of the document.  In other words, if you make a major change to a document, and don’t know why you are not seeing the feedback on Github, that could be a reason.
+User needs to know that every time they make a change, they are effectively submitting a new document into Github. They will still be then able to see past versions of their document on the site, but any comments made on the previous submissions will be left with that version of the document.  In other words, if you make a major change to a document, and don’t know why you are not seeing the feedback on Github, that could be a reason.
 
 
 
