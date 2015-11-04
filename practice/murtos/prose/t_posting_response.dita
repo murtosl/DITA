@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "plugins/org.oasis-open.dita.v1_2/dtd/technicalContent/dtd/task.dtd">
+
+<task id="post">
+<title>Posting a Prose.io Response</title>
+<shortdesc>
+	How to post a prose.io response to GitHub
+</shortdesc>
+
+<taskbody>
+	<context>
+		<p>This task will allow you to write a Markdown post on GitHub using Prose.Io</p>
+	</context>
+	<steps>
+		<step>
+			<cmd>
+				Login to Github with your account.
+			</cmd>
+		</step>
+		<step>
+			<cmd>
+				Authorize startup of Prose.io
+			</cmd>
+		</step>
+		<step>
+			<cmd>
+				Select the desired repository
+			</cmd>
+		</step>
+	</steps>
+</taskbody>
+</task>
