@@ -10,3 +10,4 @@
 	 
 ## Prose Posts
        dita -f html5 -i '.\_prose_post.ditamap' -o 'out\html5\'
+	   dita -f pdf -i '.\_prose_post.ditamap' -o 'out\pdf\'

@@ -9,7 +9,7 @@
 
 <taskbody>
 	<context>
-		<p>This task will allow you to write a Markdown post on GitHub using Prose.Io</p>
+		<p>This task will allow you to write a Markdown post on GitHub using Prose.io.</p>
 	</context>
 	<steps>
 		<step>
@@ -19,12 +19,32 @@
 		</step>
 		<step>
 			<cmd>
-				Authorize startup of Prose.io
+				Authorize startup of Prose.io.
 			</cmd>
 		</step>
 		<step>
 			<cmd>
-				Select the desired repository
+				Select the desired repository and location for your post.
+			</cmd>
+		</step>
+		<step>
+			<cmd>
+				Click on the green box that says “new file”.
+			</cmd>
+		</step>
+		<step>
+			<cmd>
+				Compose your post.
+			</cmd>
+		</step>
+		<step>
+			<cmd>
+				Select filename path from top of page and provide a filename.
+			</cmd>
+		</step>
+		<step>
+			<cmd>
+				Click disk icon on right side of page.  Describe the changes you made in the box that appears. Hit commit to save your post.
 			</cmd>
 		</step>
 	</steps>

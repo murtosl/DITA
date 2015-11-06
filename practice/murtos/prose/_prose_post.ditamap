@@ -4,4 +4,6 @@
 <map title="Using Prose.IO for WRIT4662W">
 	<title>Using Prose.IO for WRIT4662W</title>
 	<topicref href="t_posting_response.dita" />
+	<topicref href="c_github.dita" />
+	<topicref href="r_repos.dita" /> 
 </map>
